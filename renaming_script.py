@@ -4,7 +4,7 @@ import os
 def change_name():
     src_dirs = list(filter(lambda x: x[0] != '.', os.listdir("./dataset_characters")))
     for folder in src_dirs:
-        print("Renaming folder"+folder)
+        print("Renaming folder" + folder)
         counter = 1
         folder_path = os.path.join("./dataset_characters", folder)
         images = os.listdir(folder_path)

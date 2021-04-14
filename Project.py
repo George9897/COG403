@@ -1,5 +1,5 @@
 """
-This is the final Project - Automatic Number Plate Recognition
+This is the final COG403 Project - Automatic Number Plate Recognition
 """
 from os import listdir
 from matplotlib import pyplot as plt

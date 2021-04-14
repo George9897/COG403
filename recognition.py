@@ -1,5 +1,5 @@
 """
-this file is used to recognize the character separated from the number plate, each function takes the segmented characters
+This file is used to recognize the character separated from the number plate, each function takes the segmented characters
 as its argument and return the predicted characters by the model.
 """
 import pickle

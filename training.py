@@ -1,5 +1,5 @@
 """
-Model Training Algorithm
+COG403 Model Training Algorithm
 the CNN model is refer to https://missinglink.ai/guides/convolutional-neural-networks/python-convolutional-neural-network-creating-cnn-keras-tensorflow-plain-python/
 """
 

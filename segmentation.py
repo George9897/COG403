@@ -1,5 +1,5 @@
 """
-Character Segmentation Algorithm Code
+COG403 Character Segmentation Algorithm Code
 """
 import cv2
 import matplotlib.pyplot as plt

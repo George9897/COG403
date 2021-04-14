@@ -1,5 +1,5 @@
 """
-Plate Localization Algorithm Code
+COG403 - Plate Localization Algorithm Code
 """
 import cv2
 import numpy as np

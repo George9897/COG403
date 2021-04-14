@@ -1,5 +1,5 @@
 """
-This file contains all the helper functions utilized
+COG403 This file contains all the helper functions utilized
 """
 import cv2
 import numpy as np
